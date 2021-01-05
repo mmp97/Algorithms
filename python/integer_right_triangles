@@ -1,0 +1,9 @@
+Given an integer perimeter, 0 < p <= 1 000 000, find all right-angled triangles with perimeter p that have integral side lengths.
+
+Your Task
+Complete the integerRightTriangles (or integer_right_triangles) function.
+Each element of the solution array should contain the integer side lengths of a valid triangle in increasing order.
+Examples
+integerRightTriangles(4);   // []
+integerRightTriangles(12);  // [[3,4,5]]
+integerRightTriangles(120); // [[20,48,52], [24,45,51], [30,40,50]]
